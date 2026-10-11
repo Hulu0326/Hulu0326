@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 我的学习打卡记录（本地保留，不上传）
+study-log.md
